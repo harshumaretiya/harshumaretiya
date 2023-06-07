@@ -7,11 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/hp846" target="blank"><img src="https://img.shields.io/twitter/follow/hp846?logo=twitter&style=for-the-badge" alt="hp846" /></a> </p>
 
-- 🔭 I’m currently working on **Restaurant POS System**
 
 - 🌱 I’m currently learning **Ruby On Rails, React**
 
-- 🤝 I’m looking for help with **Restaurant POS System**
 
 - 👨‍💻 All of my projects are available at [https://harshhere.netlify.app](https://harshhere.netlify.app)
 
