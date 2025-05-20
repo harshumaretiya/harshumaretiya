@@ -25,7 +25,7 @@
 <p align="left">
 <a href="https://dev.to/@harsh_u115" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@harsh_u115" height="30" width="40" /></a>
 <a href="https://twitter.com/hp846" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hp846" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/harsh-patel-072379142/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/harsh-patel-072379142/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/harsh-patel-072379142/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/harsh-patel-072379142/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/12773198" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12773198" height="30" width="40" /></a>
 <a href="https://medium.com/@harsh.patel.hp846" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@harsh.patel.hp846" height="30" width="40" /></a>
 </p>
